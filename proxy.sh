@@ -4,7 +4,7 @@
 set -eo pipefail
 
 PROXY_FILE=""
-TARGET_URL="https://example.com/"
+TARGET_URL="https://cp.cloudflare.com/"
 TIMEOUT=8
 PARALLEL=1
 
